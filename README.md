@@ -1,3 +1,2 @@
 # CHDashboard
-leehowya
-wohfhk
+first vite demo in practise
